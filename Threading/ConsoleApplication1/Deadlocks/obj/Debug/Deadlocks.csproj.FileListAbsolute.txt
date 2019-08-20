@@ -1,0 +1,6 @@
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\Deadlocks\bin\Debug\Deadlocks.exe.config
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\Deadlocks\bin\Debug\Deadlocks.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\Deadlocks\bin\Debug\Deadlocks.pdb
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\Deadlocks\obj\Debug\Deadlocks.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\Deadlocks\obj\Debug\Deadlocks.pdb
+C:\Users\singhv33\Downloads\coding\Threading\ConsoleApplication1\Deadlocks\obj\Debug\Deadlocks.csproj.CoreCompileInputs.cache

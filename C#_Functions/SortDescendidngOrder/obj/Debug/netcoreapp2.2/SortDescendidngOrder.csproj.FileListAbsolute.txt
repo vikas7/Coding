@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\bin\Debug\netcoreapp2.2\SortDescendidngOrder.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\bin\Debug\netcoreapp2.2\SortDescendidngOrder.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\bin\Debug\netcoreapp2.2\SortDescendidngOrder.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\bin\Debug\netcoreapp2.2\SortDescendidngOrder.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\bin\Debug\netcoreapp2.2\SortDescendidngOrder.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\SortDescendidngOrder\obj\Debug\netcoreapp2.2\SortDescendidngOrder.pdb

@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\bin\Debug\netcoreapp2.2\Func-C#.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\bin\Debug\netcoreapp2.2\Func-C#.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\bin\Debug\netcoreapp2.2\Func-C#.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\bin\Debug\netcoreapp2.2\Func-C#.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\bin\Debug\netcoreapp2.2\Func-C#.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\Func-C#\obj\Debug\netcoreapp2.2\Func-C#.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+/* every java script file is module
+
+ */

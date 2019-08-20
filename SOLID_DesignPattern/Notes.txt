@@ -1,0 +1,14 @@
+Motivation for Single Responsibility Principle:
+   Maintainability
+   Testability
+   Flexibility and Extensibility
+   Parallel Development
+   Loose Coulping
+   SOLID Principles and design Patterns play key role in the above motiivations
+
+Open Closed Principle:
+    any new functionality should be implemented by adding new classes, attributes and methods,
+     instead of changing the current oen ot existing ones. 
+
+Liskov Substitution Principle:
+    S is a substype of T, then objects of type T may be replaced with objects of type S.

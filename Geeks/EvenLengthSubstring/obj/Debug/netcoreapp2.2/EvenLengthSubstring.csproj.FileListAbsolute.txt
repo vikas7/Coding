@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\bin\Debug\netcoreapp2.2\EvenLengthSubstring.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\bin\Debug\netcoreapp2.2\EvenLengthSubstring.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\bin\Debug\netcoreapp2.2\EvenLengthSubstring.runtimeconfig.dev.json
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\bin\Debug\netcoreapp2.2\EvenLengthSubstring.dll
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\bin\Debug\netcoreapp2.2\EvenLengthSubstring.pdb
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.csprojAssemblyReference.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.csproj.CoreCompileInputs.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.AssemblyInfoInputs.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.AssemblyInfo.cs
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.dll
+c:\Users\singhv33\Downloads\Coding\Geeks\EvenLengthSubstring\obj\Debug\netcoreapp2.2\EvenLengthSubstring.pdb

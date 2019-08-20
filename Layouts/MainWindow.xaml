@@ -1,0 +1,33 @@
+﻿<Window x:Class="Layouts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Layouts"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--<StackPanel>
+        <Button x:Name="button" Content="Button" Click="Button_Click" Margin="0,0,574.333,0" Height="40"/>
+        <CheckBox x:Name="checkBox" Content="CheckBox" Height="27" Margin="0,0,354.333,0"/>
+        <Label x:Name="label" Content="Label"/>
+        <ListBox x:Name="listBox" Height="72" Margin="0,0,472.333,0"/>
+        <CheckBox x:Name="checkBox1" Content="CheckBox"/>
+        <ComboBox x:Name="comboBox" Height="58" Margin="0,0,513.333,0"/>
+
+    </StackPanel>-->
+    <!--<WrapPanel HorizontalAlignment="Center">
+        <Button Content="Button" Height="30" Width="189"/>
+        <Button Content="Button" Height="30" Width="189"/>
+        <Button Content="Button" Height="30" Width="189"/>
+        <Button Content="Button" Height="30" Width="189"/>
+        <Button Content="Button" Height="30" Width="189"/>
+        <Button Content="Button" Height="30" Width="189"/>
+    </WrapPanel>-->
+    <Canvas Background="Green">
+        <Label x:Name="label" Content="Label" Canvas.Left="137" Canvas.Top="119" RenderTransformOrigin="-1.193,0.356"/>
+        <TextBox x:Name="textBox" Height="26" Canvas.Left="257" TextWrapping="Wrap" Text="TextBox" Canvas.Top="131" Width="123" RenderTransformOrigin="0.138,-0.658"/>
+        <Button x:Name="button" Content="Button" Canvas.Left="226" Canvas.Top="199" Width="75"/>
+
+    </Canvas>
+
+</Window>

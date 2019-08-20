@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\bin\Debug\netcoreapp2.2\EqualsOp.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\bin\Debug\netcoreapp2.2\EqualsOp.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\bin\Debug\netcoreapp2.2\EqualsOp.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\bin\Debug\netcoreapp2.2\EqualsOp.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\bin\Debug\netcoreapp2.2\EqualsOp.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\EqualsOp\obj\Debug\netcoreapp2.2\EqualsOp.pdb

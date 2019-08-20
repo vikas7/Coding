@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\singhv33\\Downloads\\Coding\\C#_Functions\\Func-C#\\Func-C#.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

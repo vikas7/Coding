@@ -1,0 +1,15 @@
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\bin\Debug\StyleInheritence.exe.config
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\bin\Debug\StyleInheritence.exe
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\bin\Debug\StyleInheritence.pdb
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\MainWindow.g.cs
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\App.g.cs
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence_MarkupCompile.cache
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence_MarkupCompile.lref
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\MainWindow.baml
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.g.resources
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.Properties.Resources.resources
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.csproj.GenerateResource.cache
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.exe
+C:\Users\singhv33\Downloads\Coding\StyleInheritence\obj\Debug\StyleInheritence.pdb

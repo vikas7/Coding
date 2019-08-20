@@ -1,0 +1,16 @@
+C:\Users\singhv33\Downloads\Coding\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\singhv33\Downloads\Coding\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\singhv33\Downloads\Coding\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\App.g.cs
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\HelloWPF.pdb
+C:\Users\singhv33\Downloads\Coding\HelloWPF\obj\Debug\App.baml

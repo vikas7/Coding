@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\bin\Debug\netcoreapp2.2\ImplementCompare.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\bin\Debug\netcoreapp2.2\ImplementCompare.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\bin\Debug\netcoreapp2.2\ImplementCompare.runtimeconfig.dev.json
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\bin\Debug\netcoreapp2.2\ImplementCompare.dll
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\bin\Debug\netcoreapp2.2\ImplementCompare.pdb
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.csprojAssemblyReference.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.csproj.CoreCompileInputs.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.AssemblyInfoInputs.cache
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.AssemblyInfo.cs
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.dll
+c:\Users\singhv33\Downloads\Coding\Geeks\ImplementCompare\obj\Debug\netcoreapp2.2\ImplementCompare.pdb

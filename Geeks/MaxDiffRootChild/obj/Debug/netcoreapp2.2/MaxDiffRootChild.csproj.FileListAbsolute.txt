@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\bin\Debug\netcoreapp2.2\MaxDiffRootChild.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\bin\Debug\netcoreapp2.2\MaxDiffRootChild.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\bin\Debug\netcoreapp2.2\MaxDiffRootChild.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\bin\Debug\netcoreapp2.2\MaxDiffRootChild.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\bin\Debug\netcoreapp2.2\MaxDiffRootChild.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxDiffRootChild\obj\Debug\netcoreapp2.2\MaxDiffRootChild.pdb

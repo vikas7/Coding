@@ -1,0 +1,15 @@
+C:\Users\singhv33\Downloads\Coding\Trigger\bin\Debug\Trigger.exe.config
+C:\Users\singhv33\Downloads\Coding\Trigger\bin\Debug\Trigger.exe
+C:\Users\singhv33\Downloads\Coding\Trigger\bin\Debug\Trigger.pdb
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\MainWindow.g.cs
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\App.g.cs
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger_MarkupCompile.cache
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger_MarkupCompile.lref
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\MainWindow.baml
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.g.resources
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.Properties.Resources.resources
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.csproj.GenerateResource.cache
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.exe
+C:\Users\singhv33\Downloads\Coding\Trigger\obj\Debug\Trigger.pdb

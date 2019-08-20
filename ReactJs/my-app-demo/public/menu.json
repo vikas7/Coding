@@ -1,0 +1,29 @@
+[
+    {
+        "menuText": "Chart",
+        "menuLink": "#",
+        "submenu":[
+            {
+                "menuText":"Bar",
+                "menuLink":"/charts/bar"
+            },
+            {
+                "menuText":"Line",
+                "menuLink":"/charts/line"
+            },
+            {
+                "menuText":"Pie",
+                "menuLink":"/charts/pie"
+            }
+        ]
+        
+    },
+    {
+        "menuText": "Login",
+        "menuLink": "/login"
+    },
+    {
+        "menuText": "Contact",
+        "menuLink": "/contact"
+    }
+]

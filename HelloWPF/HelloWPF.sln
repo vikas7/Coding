@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPF", "HelloWPF.csproj", "{9276678B-EC62-4512-98B3-15E553BF0596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styles", "..\Styles\Styles.csproj", "{8C738DE6-4935-4E12-B92F-0985B4ECAAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleInheritence", "..\StyleInheritence\StyleInheritence.csproj", "{69850574-5A27-47DC-97DE-3557A517D38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigger", "..\Trigger\Trigger.csproj", "{14E97513-2B9A-4D8A-AA56-647ECA935CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTrigger", "..\DataTrigger\DataTrigger.csproj", "{C2F1E359-37A6-418D-BE8B-FB7B15CAA0BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layouts", "..\Layouts\Layouts.csproj", "{05195FA6-EB08-44CF-8E7E-B20F5C9B2204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyProperty", "..\DependencyProperty\DependencyProperty.csproj", "{04C21AAB-8C3A-43A2-982B-71559E5631BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9276678B-EC62-4512-98B3-15E553BF0596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9276678B-EC62-4512-98B3-15E553BF0596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9276678B-EC62-4512-98B3-15E553BF0596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9276678B-EC62-4512-98B3-15E553BF0596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C738DE6-4935-4E12-B92F-0985B4ECAAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C738DE6-4935-4E12-B92F-0985B4ECAAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C738DE6-4935-4E12-B92F-0985B4ECAAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C738DE6-4935-4E12-B92F-0985B4ECAAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69850574-5A27-47DC-97DE-3557A517D38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69850574-5A27-47DC-97DE-3557A517D38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69850574-5A27-47DC-97DE-3557A517D38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69850574-5A27-47DC-97DE-3557A517D38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E97513-2B9A-4D8A-AA56-647ECA935CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E97513-2B9A-4D8A-AA56-647ECA935CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E97513-2B9A-4D8A-AA56-647ECA935CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E97513-2B9A-4D8A-AA56-647ECA935CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F1E359-37A6-418D-BE8B-FB7B15CAA0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F1E359-37A6-418D-BE8B-FB7B15CAA0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F1E359-37A6-418D-BE8B-FB7B15CAA0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F1E359-37A6-418D-BE8B-FB7B15CAA0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05195FA6-EB08-44CF-8E7E-B20F5C9B2204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05195FA6-EB08-44CF-8E7E-B20F5C9B2204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05195FA6-EB08-44CF-8E7E-B20F5C9B2204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05195FA6-EB08-44CF-8E7E-B20F5C9B2204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C21AAB-8C3A-43A2-982B-71559E5631BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C21AAB-8C3A-43A2-982B-71559E5631BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C21AAB-8C3A-43A2-982B-71559E5631BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C21AAB-8C3A-43A2-982B-71559E5631BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DC1649-8707-4A99-8625-FBE9362CFCD2}
+	EndGlobalSection
+EndGlobal

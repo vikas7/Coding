@@ -1,0 +1,18 @@
+﻿<Window x:Class="HelloWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">    
+    <Grid>
+        <Grid.Resources>
+            <SolidColorBrush Color="Red" x:Key="RedBrush"/>
+            <SolidColorBrush Color="Green" x:Key="BlueBrush"/>
+        </Grid.Resources>
+        <Button Content="My Button" Background="{DynamicResource dynamicResource}" Foreground="White" Width="200" Height="70" Margin="75,173,518.333,177.667"/>
+        <Button x:Name="button" Content="Chnage color to Red" HorizontalAlignment="Left" Margin="519,81,0,0" VerticalAlignment="Top" Width="147" Height="40" Click="Button_Click"/>
+        <Button x:Name="button1" Content="Chnage color to Blue" HorizontalAlignment="Left" Margin="519,173,0,0" VerticalAlignment="Top" Width="147" Height="38" Click="Button1_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\bin\Debug\netcoreapp2.2\StringIndex.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\bin\Debug\netcoreapp2.2\StringIndex.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\bin\Debug\netcoreapp2.2\StringIndex.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\bin\Debug\netcoreapp2.2\StringIndex.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\bin\Debug\netcoreapp2.2\StringIndex.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StringIndex\obj\Debug\netcoreapp2.2\StringIndex.pdb

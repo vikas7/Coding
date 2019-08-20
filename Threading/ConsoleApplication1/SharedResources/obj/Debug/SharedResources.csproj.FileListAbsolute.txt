@@ -1,0 +1,7 @@
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\SharedResources\bin\Debug\SharedResources.exe.config
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\SharedResources\bin\Debug\SharedResources.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\SharedResources\bin\Debug\SharedResources.pdb
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\SharedResources\obj\Debug\SharedResources.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\SharedResources\obj\Debug\SharedResources.pdb
+C:\Users\singhv33\Downloads\coding\Threading\ConsoleApplication1\SharedResources\obj\Debug\SharedResources.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\coding\Threading\ConsoleApplication1\SharedResources\obj\Debug\SharedResources.csproj.CoreCompileInputs.cache

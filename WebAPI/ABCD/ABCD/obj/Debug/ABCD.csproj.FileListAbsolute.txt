@@ -1,0 +1,6 @@
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\bin\Debug\ABCD.exe.config
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\bin\Debug\ABCD.exe
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\bin\Debug\ABCD.pdb
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\obj\Debug\ABCD.csprojResolveAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\obj\Debug\ABCD.exe
+C:\Users\singhv33\Downloads\Coding\WebAPI\ABCD\ABCD\obj\Debug\ABCD.pdb

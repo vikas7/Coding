@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\bin\Debug\netcoreapp2.2\ThreadPriorityClass.deps.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\bin\Debug\netcoreapp2.2\ThreadPriorityClass.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\bin\Debug\netcoreapp2.2\ThreadPriorityClass.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\bin\Debug\netcoreapp2.2\ThreadPriorityClass.dll
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\bin\Debug\netcoreapp2.2\ThreadPriorityClass.pdb
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.dll
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ThreadPriorityClass\obj\Debug\netcoreapp2.2\ThreadPriorityClass.pdb

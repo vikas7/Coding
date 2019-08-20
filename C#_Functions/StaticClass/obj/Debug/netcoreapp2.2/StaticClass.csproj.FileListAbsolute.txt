@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\bin\Debug\netcoreapp2.2\StaticClass.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\bin\Debug\netcoreapp2.2\StaticClass.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\bin\Debug\netcoreapp2.2\StaticClass.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\bin\Debug\netcoreapp2.2\StaticClass.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\bin\Debug\netcoreapp2.2\StaticClass.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\StaticClass\obj\Debug\netcoreapp2.2\StaticClass.pdb

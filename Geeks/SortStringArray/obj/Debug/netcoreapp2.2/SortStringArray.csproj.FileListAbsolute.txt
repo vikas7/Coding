@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\bin\Debug\netcoreapp2.2\SortStringArray.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\bin\Debug\netcoreapp2.2\SortStringArray.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\bin\Debug\netcoreapp2.2\SortStringArray.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\bin\Debug\netcoreapp2.2\SortStringArray.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\bin\Debug\netcoreapp2.2\SortStringArray.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\SortStringArray\obj\Debug\netcoreapp2.2\SortStringArray.pdb

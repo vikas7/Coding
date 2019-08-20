@@ -1,0 +1,6 @@
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe.config
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ReaderWriterLock\bin\Debug\ReaderWriterLock.pdb
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ReaderWriterLock\obj\Debug\ReaderWriterLock.exe
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\ReaderWriterLock\obj\Debug\ReaderWriterLock.pdb
+C:\Users\singhv33\Downloads\coding\Threading\ConsoleApplication1\ReaderWriterLock\obj\Debug\ReaderWriterLock.csproj.CoreCompileInputs.cache

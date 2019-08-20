@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\bin\Debug\netcoreapp2.2\Sudoku.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\bin\Debug\netcoreapp2.2\Sudoku.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\bin\Debug\netcoreapp2.2\Sudoku.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\bin\Debug\netcoreapp2.2\Sudoku.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\bin\Debug\netcoreapp2.2\Sudoku.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\Sudoku\obj\Debug\netcoreapp2.2\Sudoku.pdb

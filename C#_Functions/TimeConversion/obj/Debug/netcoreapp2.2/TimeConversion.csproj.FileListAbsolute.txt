@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.pdb
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.dll
+C:\Users\singhv33\Downloads\Coding\C#_Functions\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.pdb

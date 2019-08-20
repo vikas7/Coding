@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\bin\Debug\netcoreapp2.2\MaxHistogram.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\bin\Debug\netcoreapp2.2\MaxHistogram.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\bin\Debug\netcoreapp2.2\MaxHistogram.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\bin\Debug\netcoreapp2.2\MaxHistogram.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\bin\Debug\netcoreapp2.2\MaxHistogram.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\MaxHistogram\obj\Debug\netcoreapp2.2\MaxHistogram.pdb

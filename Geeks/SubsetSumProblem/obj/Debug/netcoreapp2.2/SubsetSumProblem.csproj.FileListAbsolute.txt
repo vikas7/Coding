@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\bin\Debug\netcoreapp2.2\SubsetSumProblem.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\bin\Debug\netcoreapp2.2\SubsetSumProblem.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\bin\Debug\netcoreapp2.2\SubsetSumProblem.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\bin\Debug\netcoreapp2.2\SubsetSumProblem.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\bin\Debug\netcoreapp2.2\SubsetSumProblem.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\SubsetSumProblem\obj\Debug\netcoreapp2.2\SubsetSumProblem.pdb

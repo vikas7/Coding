@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\bin\Debug\netcoreapp2.2\PrintPattern.deps.json
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\bin\Debug\netcoreapp2.2\PrintPattern.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\bin\Debug\netcoreapp2.2\PrintPattern.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\bin\Debug\netcoreapp2.2\PrintPattern.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\bin\Debug\netcoreapp2.2\PrintPattern.pdb
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.dll
+C:\Users\singhv33\Downloads\Coding\Geeks\PrintPattern\obj\Debug\netcoreapp2.2\PrintPattern.pdb

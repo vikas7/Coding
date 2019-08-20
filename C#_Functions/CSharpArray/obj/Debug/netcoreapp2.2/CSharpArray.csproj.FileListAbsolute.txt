@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\bin\Debug\netcoreapp2.2\CSharpArray.deps.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\bin\Debug\netcoreapp2.2\CSharpArray.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\bin\Debug\netcoreapp2.2\CSharpArray.runtimeconfig.dev.json
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\bin\Debug\netcoreapp2.2\CSharpArray.dll
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\bin\Debug\netcoreapp2.2\CSharpArray.pdb
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.csprojAssemblyReference.cache
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.csproj.CoreCompileInputs.cache
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.AssemblyInfoInputs.cache
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.AssemblyInfo.cs
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.dll
+c:\Users\singhv33\Downloads\Coding\C#_Functions\CSharpArray\obj\Debug\netcoreapp2.2\CSharpArray.pdb

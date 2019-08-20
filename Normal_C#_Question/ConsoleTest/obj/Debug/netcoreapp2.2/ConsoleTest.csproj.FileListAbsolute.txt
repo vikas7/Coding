@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.deps.json
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.dll
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.pdb
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.dll
+C:\Users\singhv33\Downloads\Coding\Normal_C#_Question\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.pdb

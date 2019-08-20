@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\singhv33\Downloads\Coding\Design_Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb

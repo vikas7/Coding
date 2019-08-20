@@ -1,0 +1,11 @@
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\bin\Debug\netcoreapp2.2\LockInThreading.deps.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\bin\Debug\netcoreapp2.2\LockInThreading.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\bin\Debug\netcoreapp2.2\LockInThreading.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\bin\Debug\netcoreapp2.2\LockInThreading.dll
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\bin\Debug\netcoreapp2.2\LockInThreading.pdb
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.dll
+C:\Users\singhv33\Downloads\Coding\Threading\ConsoleApplication1\LockInThreading\obj\Debug\netcoreapp2.2\LockInThreading.pdb
