@@ -1,0 +1,15 @@
+C:\Users\singhv33\Downloads\Coding\DataTrigger\bin\Debug\DataTrigger.exe.config
+C:\Users\singhv33\Downloads\Coding\DataTrigger\bin\Debug\DataTrigger.exe
+C:\Users\singhv33\Downloads\Coding\DataTrigger\bin\Debug\DataTrigger.pdb
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\MainWindow.g.cs
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\App.g.cs
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.cache
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger_MarkupCompile.lref
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\MainWindow.baml
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.g.resources
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.Properties.Resources.resources
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.csproj.GenerateResource.cache
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.exe
+C:\Users\singhv33\Downloads\Coding\DataTrigger\obj\Debug\DataTrigger.pdb
