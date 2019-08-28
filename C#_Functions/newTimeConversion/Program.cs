@@ -24,6 +24,10 @@ namespace newTimeConversion
             DateTime utcTime=TimeZoneInfo.ConvertTimeToUtc(indianTime,TimeZoneInfo.FindSystemTimeZoneById("India Standard Time"));
             Console.WriteLine(indianTime);
             Console.WriteLine(utcTime);
+
+            Console.WriteLine("It is UTC time and date: "+DateTime.UtcNow);
+            DateTime convertFromUtc=TimeZoneInfo.ConvertTimeToUtc(DateTime.UtcNow,TimeZoneInfo.FindSystemTimeZoneById("UTC"));
+            Console.WriteLine("Conversion from utc :"+convertFromUtc);
           
             
         }

@@ -9,3 +9,14 @@ C:\Users\singhv33\Downloads\Coding\C#_Functions\newTimeConversion\obj\Debug\netc
 C:\Users\singhv33\Downloads\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.AssemblyInfo.cs
 C:\Users\singhv33\Downloads\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.dll
 C:\Users\singhv33\Downloads\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.pdb
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\bin\Debug\netcoreapp2.2\newTimeConversion.deps.json
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\bin\Debug\netcoreapp2.2\newTimeConversion.runtimeconfig.json
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\bin\Debug\netcoreapp2.2\newTimeConversion.runtimeconfig.dev.json
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\bin\Debug\netcoreapp2.2\newTimeConversion.dll
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\bin\Debug\netcoreapp2.2\newTimeConversion.pdb
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.csprojAssemblyReference.cache
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.AssemblyInfoInputs.cache
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.AssemblyInfo.cs
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.dll
+C:\Users\singhv33\Downloads\Coding\Coding\C#_Functions\newTimeConversion\obj\Debug\netcoreapp2.2\newTimeConversion.pdb

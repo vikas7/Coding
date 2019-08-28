@@ -687,27 +687,32 @@
   },
   "packageFolders": {
     "C:\\Users\\singhv33\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\singhv33\\Downloads\\Coding\\C#_Functions\\TimeConversion\\TimeConversion.csproj",
+      "projectUniqueName": "c:\\Users\\singhv33\\Downloads\\Coding\\Coding\\C#_Functions\\TimeConversion\\TimeConversion.csproj",
       "projectName": "TimeConversion",
-      "projectPath": "C:\\Users\\singhv33\\Downloads\\Coding\\C#_Functions\\TimeConversion\\TimeConversion.csproj",
+      "projectPath": "c:\\Users\\singhv33\\Downloads\\Coding\\Coding\\C#_Functions\\TimeConversion\\TimeConversion.csproj",
       "packagesPath": "C:\\Users\\singhv33\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\singhv33\\Downloads\\Coding\\C#_Functions\\TimeConversion\\obj\\",
+      "outputPath": "c:\\Users\\singhv33\\Downloads\\Coding\\Coding\\C#_Functions\\TimeConversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\singhv33\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\singhv33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
