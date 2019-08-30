@@ -1,0 +1,36 @@
+﻿<Window x:Class="WebConfigEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebConfigEditor"      
+        mc:Ignorable="d"
+        Title="Web Config Editor" Height="450" Width="800"
+        Background="Azure" BorderThickness="5" FontWeight="Normal">
+    <Grid HorizontalAlignment="Right" Margin="0,0,0.333,-0.333" Width="793" RenderTransformOrigin="0.487,0.519">
+        <Grid.Resources>
+            <local:InverseBooleanConverter x:Key="BoolConverter"/>
+            <local:EnumToBoolConverter x:Key="EnumToBool"/>
+        </Grid.Resources>
+        <TextBox x:Name="textBox" IsReadOnly="True" HorizontalAlignment="Left" Height="37" Margin="47,47,0,0" TextWrapping="Wrap" Text="{Binding TxtConfigFilePath}" VerticalAlignment="Top" Width="527"/>
+        <Button x:Name="button" Content="Browse File" HorizontalAlignment="Left" Margin="579,47,0,0" VerticalAlignment="Top" Width="100" Height="37" Command="{Binding BrowseFile}"/>
+        <GroupBox x:Name="groupBox" Header="SSL Options" HorizontalAlignment="Left" Height="86" Margin="65,116,0,0" VerticalAlignment="Top" Width="227">
+            <StackPanel HorizontalAlignment="Left" Height="90" Margin="10,10,0,0" VerticalAlignment="Top" Width="100">
+                <RadioButton x:Name="radioButton" Content="Non SSL" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding SSL,Converter={StaticResource EnumToBool},  ConverterParameter={x:Static local:SSLCategory.NonSSL}}" />
+                <RadioButton x:Name="radioButton1" Content="SSL" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding SSL,Converter={StaticResource EnumToBool},ConverterParameter={x:Static local:SSLCategory.SSL}}" Margin="0,5,0,0"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="groupBox1" Header="Authentication Options" HorizontalAlignment="Left" Height="100" Margin="65,233,0,0" VerticalAlignment="Top" Width="227">
+            <StackPanel HorizontalAlignment="Left" Height="74" Margin="10,10,0,-7.333" VerticalAlignment="Top" Width="164">
+                <RadioButton x:Name="radioButton2" Content="None" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding AuthOptions ,Converter={StaticResource EnumToBool},ConverterParameter={x:Static local:AuthenticationOptions.None}}"/>
+                <RadioButton x:Name="radioButton3" Content="Basic Authentication" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding AuthOptions,Converter={StaticResource EnumToBool},ConverterParameter={x:Static local:AuthenticationOptions.Basic_Authentication}}" Margin="0,5,0,0"/>
+                <RadioButton x:Name="radioButton4" Content="Windows Authentication" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding AuthOptions,Converter={StaticResource EnumToBool},ConverterParameter={x:Static local:AuthenticationOptions.Windows_Authentication}}" Margin="0,5,0,0"/>
+            </StackPanel>
+        </GroupBox>
+        <StackPanel>
+            <RadioButton x:Name="radioButton5" Content="SSO Enabled" IsEnabled="{Binding FilepathExist}" IsChecked="{Binding SSOEnabled}" HorizontalAlignment="Left" Margin="386,116,0,0" VerticalAlignment="Top"/>
+        </StackPanel>
+        <Button x:Name="ChangeConfig" Content="Change Configuration" IsEnabled="{Binding FilepathExist}" Command="{Binding ChangeFileConfiguration}" Margin="394,161,251,209" RenderTransformOrigin="0.5,0.5"/>
+
+    </Grid>
+</Window>
