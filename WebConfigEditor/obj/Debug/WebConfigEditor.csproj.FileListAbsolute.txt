@@ -1,0 +1,16 @@
+C:\Users\singhv33\source\repos\WebConfigEditor\bin\Debug\WebConfigEditor.exe.config
+C:\Users\singhv33\source\repos\WebConfigEditor\bin\Debug\WebConfigEditor.exe
+C:\Users\singhv33\source\repos\WebConfigEditor\bin\Debug\WebConfigEditor.pdb
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.csprojAssemblyReference.cache
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\App.g.cs
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor_MarkupCompile.cache
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor_MarkupCompile.lref
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.g.resources
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.Properties.Resources.resources
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.csproj.GenerateResource.cache
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.csproj.CoreCompileInputs.cache
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.exe
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\WebConfigEditor.pdb
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\View\MainWindow.g.cs
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\View\MainWindow.baml
+C:\Users\singhv33\source\repos\WebConfigEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
